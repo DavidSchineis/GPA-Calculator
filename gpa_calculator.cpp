@@ -40,7 +40,7 @@ double letterToGPA(const string& grade) {
     if (it != gradeMap.end()) 
         return it->second; 
 
-    // If an invalid grade is entered, return -1.0
+    // If an invalid grade is entered, return -1
     return -1.0; 
 }
 
