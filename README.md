@@ -1,6 +1,8 @@
 # GPA Calculator
 >A simple command line GPA calculator written in C++ for students to track their academic performance and plan for future GPA goals.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-inactive.svg)](LICENSE)
+
 ## Features
 
 * Calculates the required semester GPA to reach a desired cumulative GPA.
@@ -32,3 +34,7 @@ Run the program
 ```bash
 ./gpa_calculator
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
